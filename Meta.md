@@ -1,0 +1,3 @@
+- 00:04:04 - started action
+- 00:05:58 - fixed music trouble
+- 00:18:23 - do i have to save these obsi notebooks before commit? is that a thing or am i too old?
