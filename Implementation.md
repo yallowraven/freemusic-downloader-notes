@@ -22,3 +22,5 @@ With the missing core part established, we can start exporting the functions fro
 - extract `download_songs.py`
 - add output directory arg to CLI
 - add silent mode to make it less loud during download
+- extract metadata extraction, add arg to make it optional
+	- add another arg to delete songs with no metadata
