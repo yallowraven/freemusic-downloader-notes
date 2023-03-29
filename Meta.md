@@ -4,3 +4,6 @@
 - 00:47:31 - arguing with ChatGPT about error paths and early returns
 - 01:02:15 - lol no ampersand for me
 - 01:14:36 - changed music
+- 02:05:00 - testing time, gotta wrap it up soon for today
+- 02:08:50 - at this point, i'm assuming it works, making readme
+- 02:22:22 - apparently, it works :)
