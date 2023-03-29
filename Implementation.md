@@ -17,3 +17,4 @@ With the missing core part established, we can start exporting the functions fro
 - extract validation errors
 - move argparsing to `main.py`
 - rework `extract_urls.py` to work with strings instead of files
+	- at this point, the resulting url-s have some unexpected junk at the end `"}\'>`, but removing this is trivial
