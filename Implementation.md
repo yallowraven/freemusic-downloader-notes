@@ -16,3 +16,4 @@ With the missing core part established, we can start exporting the functions fro
 - extract url validation from `get_pages.py`
 - extract validation errors
 - move argparsing to `main.py`
+- rework `extract_urls.py` to work with strings instead of files
