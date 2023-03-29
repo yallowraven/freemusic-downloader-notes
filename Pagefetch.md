@@ -6,3 +6,6 @@ Using `argparse`, getting the target URL from the args, and retrieving the HTML 
 
 ## URL validation
 With the current progress, any page can be retrieved. However, we need to introduce a check so we only ever accept URLs of Free Music Archive music listing pages. 
+
+## Page validation
+Now, we also have to establish that the Free Music Archive page is a song listing. For this, we can inspect the contents and look for occurences of the regex `<div class="play-item[^\n]*` (obtained from the research last time).
