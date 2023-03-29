@@ -10,3 +10,8 @@ For the specific use case, 3 Python scripts have been made to:
 
 ## Fetching the listing pages ([[Pagefetch]])
 The most prominent bottleneck for the previous workflow (if it can even be considered that) is that the song listing pages had to be downloaded by hand, and only then could they be handed to the scripts. We shall now implement a script to accomplish that task as well.
+
+## Bootstrapping
+With the missing core part established, we can start exporting the functions from their separate files into a full-blown CLI:
+- extract url validation from `get_pages.py`
+- extract validation errors
