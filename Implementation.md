@@ -15,3 +15,4 @@ The most prominent bottleneck for the previous workflow (if it can even be consi
 With the missing core part established, we can start exporting the functions from their separate files into a full-blown CLI:
 - extract url validation from `get_pages.py`
 - extract validation errors
+- move argparsing to `main.py`
