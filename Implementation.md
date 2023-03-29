@@ -20,3 +20,5 @@ With the missing core part established, we can start exporting the functions fro
 	- at this point, the resulting url-s have some unexpected junk at the end `"}\'>`, but removing this is trivial
 	- some of the download links are also junk through and through (e.g. leading to .bin files), but these are rare enough to be fine to ignore for now
 - extract `download_songs.py`
+- add output directory arg to CLI
+- add silent mode to make it less loud during download
