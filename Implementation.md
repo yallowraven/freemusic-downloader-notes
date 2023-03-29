@@ -24,3 +24,5 @@ With the missing core part established, we can start exporting the functions fro
 - add silent mode to make it less loud during download
 - extract metadata extraction, add arg to make it optional
 	- add another arg to delete songs with no metadata
+- add readme, reqs
+- profit
