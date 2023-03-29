@@ -2,3 +2,4 @@
 - 00:05:58 - fixed music trouble
 - 00:18:23 - do i have to save these obsi notebooks before commit? is that a thing or am i too old?
 - 00:47:31 - arguing with ChatGPT about error paths and early returns
+- 01:02:15 - lol no ampersand for me
